@@ -21,10 +21,6 @@ This Power BI project analyzes Netflix data to uncover insights about content tr
 2. Open it in Power BI Desktop.
 3. Explore the dashboard interactively.
 
-## 🔗 Related Links
-If published online, add:
-[View Dashboard Online](#) *(optional)*
-
 ---
 
 ⭐ If you like this project, consider giving it a star!
